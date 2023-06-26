@@ -1,0 +1,47 @@
+.container{
+    display: flex;
+    /* justify-content: center; */
+}
+.contact{
+    width: 400px;
+    height: 500px;
+    background-color: #19235e;
+    color: white;
+    text-align: left;
+    padding: 3%;
+
+}
+.contact i{
+    padding: 10px;
+    margin-top: 33%;
+}
+.contact input{
+    width: 95%;
+}
+.US{
+    width: 600px;
+    height: 485px;
+    background-color: #ccc;
+    box-shadow: 5px 0px 5px 5px #999999;
+   
+    text-align: left;
+    margin-left: 4%;
+}
+.US input{
+    width: 90%;
+}
+.US button{
+    background-color: #19235e;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border: none;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.error{
+    color: red;
+}
+.name{
+        margin-left: 5%;
+}
